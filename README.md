@@ -19,3 +19,5 @@ With CFS, processes DO get credit for that waiting time, and will get more CPU t
 ## Our Implementation
 * We use RED-BLACK TREE data structure to implement the CFS algorithm
 * We will be using complex mathematical equations such as Mandelbrot set and Julia set as processes
+
+Run ```main.c``` while having ```mandelbrot.c``` and ```rb-tree.h``` in the same directory as main.
